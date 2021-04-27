@@ -1,5 +1,7 @@
 # AnberX
 
+[![AnberX](https://github.com/krishenriksen/AnberX/raw/master/AnberX.png)](https://www.paypal.me/krishenriksendk)
+
 Handheld firmware optimized for X11 mono/windows OpenGL games for the Anbernic RG351P/M/V devices.
 
 Will be capable of running games like GTA 3 / GTA VC and even Grand Theft Auto: San Andreas
